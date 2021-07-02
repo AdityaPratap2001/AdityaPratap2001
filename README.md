@@ -3,18 +3,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaPratap2001&label=Profile%20views&color=77bb41&style=flat" alt="AdityaPratap" /> </p>
 <br>
 I'm a MERN-Stack Web Developer 🌐 & a Blockchain Enthusiast. I've been indulged in developing real-time high scalability projects using my development skills.<br>
-I have experience of working in a professional environment. I put my best to stay plugged into emerging technology trends and apply them to operations and activities.
-<br>
+I have experience of working in a professional environment & I put my best to stay plugged into emerging technology trends and apply them to operations and activities.
 
 <img align="right" alt="GIF" src="techstack.gif" width="350px"/>
 
-### 🧐 More About Me:
+### 🧐 More About Me :
 - 🌱 &nbsp; I’m currently learning BlockChain development.
-- 📫 &nbsp; Reach me at **pratapsinghaditya2001@gmail.com**.
+- ✉️ &nbsp; Reach me at **pratapsinghaditya2001@gmail.com**.
 - 💬 &nbsp; Let's discuss about MERN development & more.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/aditya-pratapsingh/).
 
-### Connect With Me On :
+### 💨 Connect With Me :
 <p align="left">
 <a href="https://github.com/AdityaPratap2001" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="github" width="34" height="34"/> </a> 
 <a href="https://www.linkedin.com/in/aditya-pratapsingh/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrs4iPask5eecxHL92K8EAmSDzggAXGpXmrQ&usqp=CAU" alt="linkedin" width="34" height="34"/> </a> 
